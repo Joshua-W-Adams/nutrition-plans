@@ -1,0 +1,36 @@
+MEAL_NAME,INGREDIENT,PROTEIN,FATS,CARBS,UNITS,QUANTITY
+Hulk,Eggs,13,10,1,per 1 egg,1
+Hulk,Bacon,3,4,0,per 100g slice,1
+Hulk,Bread,3,0,14,per 100g slice,1
+Hulk,Whey Protein,17,1,1,1 scoop,0
+Hulk,Avacados,3,21,12,1 cup,0
+Hulk,Quinoa,14,6,64,1 cup,0
+Thor,Oats,17,7,66,per 1 cup,1
+Thor,Skim Milk,8,0,12,per 1 cup,1
+Thor,Eggs,13,10,1,per 1 egg,1
+Thor,Whey Protein,17,1,1,1 scoop,0
+Thor,Avacados,3,21,12,1 cup,0
+Thor,Quinoa,14,6,64,1 cup,0
+Captain,Veges,2,8,5,per 1 cup,1
+Captain,Beef,28,15,0,per 4 oz,1
+Captain,Red Rice,4,6,33,per 5 oz,1
+Captain,Red Beans,15,1,40,per 1 cup,1
+Captain,BBQ sauce,0,0,0,per 2 tbl spoons,1
+Captain,Whey Protein,17,1,1,1 scoop,0
+Captain,Avacados,3,21,12,1 cup,0
+Captain,Quinoa,14,6,64,1 cup,0
+Iron Man,Veges,2,8,5,per 1 cup,1
+Iron Man,Eggs,13,10,1,per 1 egg,1
+Iron Man,Red Rice,4,6,33,per 5 oz,1
+Iron Man,Red Beans,15,1,40,per 1 cup,1
+Iron Man,Whey Protein,17,1,1,1 scoop,0
+Iron Man,Avacados,3,21,12,1 cup,0
+Iron Man,Quinoa,14,6,64,1 cup,0
+Black Widow,Chicken,25,3,0,per 3 oz,1
+Black Widow,Red Rice,4,6,33,per 5 oz,1
+Black Widow,Veges,2,8,5,per 1 cup,1
+Black Widow,Whey Protein,17,1,1,1 scoop,0
+Black Widow,Avacados,3,21,12,1 cup,0
+Black Widow,Quinoa,14,6,64,1 cup,0
+Protein Shake,Whey Protein,17,1,1,1 scoop,2
+Protein Shake,Water,0,0,0,500ml,1

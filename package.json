@@ -1,0 +1,17 @@
+{
+  "name": "nutrition-plans",
+  "version": "1.0.0",
+  "description": "automatically create client nutrition plans based off provided macros, meal quantity and meal details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua william adams",
+  "license": "ISC",
+  "dependencies": {
+    "3x3-equation-solver": "^1.2.18",
+    "csv-parse": "^4.8.2",
+    "json2csv": "^4.5.4",
+    "xlsx-populate": "^1.20.1"
+  }
+}
